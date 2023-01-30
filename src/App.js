@@ -1,5 +1,5 @@
 import { React } from "react";
-import "./Components/css/App.css";
+import "./Components/css/MainApp.css";
 import Header from "./Components/NoteComponents/Header";
 import Notes from "./Components/NoteComponents/Notes";
 function App() {
