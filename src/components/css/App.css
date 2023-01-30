@@ -18,12 +18,12 @@ body {
   width: 100%;
   justify-content: space-between;
   align-items: center;
-  margin: 20px 0px;
+  margin: 10px 0px;
 }
 
 .notes__title {
   color: #fff;
-  font-size: 38px;
+  font-size: 40px;
   font-family: "Montserrat";
   font-weight: 400;
 }
